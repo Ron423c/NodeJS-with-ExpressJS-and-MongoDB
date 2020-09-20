@@ -6,7 +6,7 @@
     "ejs" : "latest",
     "mongoose" : "2.5.6",
     "request" : "2.9.153",
-    "moment" : "1.5.0"
+    "moment" : "2.28.0"
   },
   "engines": {
       "node": "0.8.12",
